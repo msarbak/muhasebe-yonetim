@@ -21,6 +21,18 @@ function App() {
       salary = "9500"
       />
 
+<User
+      name= "Ozan Kanar"
+      department= "Phyton"
+      salary = "8500"
+      />
+
+<User
+      name= "Ünal Semer"
+      department= "C"
+      salary = "7500"
+      />
+
     </div>
   );
 }
